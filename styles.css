@@ -168,6 +168,16 @@
     Height: 80px;
     display: block;
   }
+
+  .CSS-Pic {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 50%;
+    Width: 160px;
+    Height: 80px;
+    display: block;
+  }
   
   
   a.linkedin {
